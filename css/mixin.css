@@ -1,0 +1,2 @@
+.containerParent{display:grid;grid-template-areas:". container .";grid-template-columns:7% 1fr 7%}.containerChild{grid-area:container}
+/*# sourceMappingURL=maps/mixin.css.map */
