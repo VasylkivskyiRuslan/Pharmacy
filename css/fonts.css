@@ -10,12 +10,12 @@
 }
 
 @font-face{
-    font-family: 'PTSans-Italic';
-    src: url('../fonts/PTSans-Italic/PTSans-Italic.eot');
-    src: url('../fonts/PTSans-Italic/PTSans-Italic.eot?iefix') format('embedded-opentype'),
-    url('../fonts/PTSans-Italic/PTSans-Italic.woff') format('woff'),
-    url('../fonts/PTSans-Italic/PTSans-Italic.ttf') format('truetype'),
-    url('../fonts/PTSans-Italic/PTSans-Italic.svg#webfont') format('svg');
+    font-family: 'Lato-ThinItalic';
+    src: url('../fonts/Lato-ThinItalic/Lato-ThinItalic.eot');
+    src: url('../fonts/Lato-ThinItalic/Lato-ThinItalic.eot?iefix') format('embedded-opentype'),
+    url('../fonts/Lato-ThinItalic/Lato-ThinItalic.woff') format('woff'),
+    url('../fonts/Lato-ThinItalic/Lato-ThinItalic.ttf') format('truetype'),
+    url('../fonts/Lato-ThinItalic/Lato-ThinItalic.svg#webfont') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -30,3 +30,15 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face{
+    font-family: 'PTSerif-Regular';
+    src: url('../fonts/PTSerif-Regular/PTSerif-Regular.eot');
+    src: url('../fonts/PTSerif-Regular/PTSerif-Regular.eot?iefix') format('embedded-opentype'),
+    url('../fonts/PTSerif-Regular/PTSerif-Regular.woff') format('woff'),
+    url('../fonts/PTSerif-Regular/PTSerif-Regular.ttf') format('truetype'),
+    url('../fonts/PTSerif-Regular/PTSerif-Regular.svg#webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
