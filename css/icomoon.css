@@ -124,3 +124,9 @@ i {
 .icon-vk-social-logotype:before {
   content: "\e924";
 }
+.icon-heart:before {
+  content: "\e925";
+}
+.icon-left-arrow-thin:before {
+  content: "\e926";
+}
