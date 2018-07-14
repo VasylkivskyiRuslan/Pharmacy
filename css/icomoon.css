@@ -133,3 +133,6 @@ i {
 .icon-viber_no_bg:before {
   content: "\e927";
 }
+.icon-checked:before {
+  content: "\e928";
+}
