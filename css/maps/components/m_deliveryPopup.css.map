@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/m_deliveryPopup.less"],"names":[],"mappings":"A,AAEA,wEACE,c,CAEI,W","file":"../../components/m_deliveryPopup.css","sourcesContent":["@import \"variables\";\r\n\r\n@media screen and(max-width: 750px), screen and (max-device-width: 750px){\r\n  body{\r\n    #delivery{\r\n      width: 90%;\r\n    }\r\n  }\r\n}"]}

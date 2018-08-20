@@ -1,0 +1,138 @@
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-asterisk:before {
+  content: "\e900";
+}
+.icon-auricular-phone-symbol-in-a-circle:before {
+  content: "\e901";
+}
+.icon-box:before {
+  content: "\e902";
+}
+.icon-cancel:before {
+  content: "\e903";
+}
+.icon-chevron-down:before {
+  content: "\e904";
+}
+.icon-chevron-right:before {
+  content: "\e905";
+}
+.icon-chevron-up:before {
+  content: "\e906";
+}
+.icon-discount:before {
+  content: "\e907";
+}
+.icon-down-arrow:before {
+  content: "\e908";
+}
+.icon-envelope:before {
+  content: "\e909";
+}
+.icon-facebook-logo:before {
+  content: "\e90a";
+}
+.icon-facebook-logo-button:before {
+  content: "\e90b";
+}
+.icon-google-plus-logo:before {
+  content: "\e90c";
+}
+.icon-gymnast-apple-diet-with-natural-supplements:before {
+  content: "\e90d";
+}
+.icon-left-arrow:before {
+  content: "\e90e";
+}
+.icon-list:before {
+  content: "\e90f";
+}
+.icon-login-square-arrow-button-outline:before {
+  content: "\e910";
+}
+.icon-magnifier:before {
+  content: "\e911";
+}
+.icon-medicines:before {
+  content: "\e912";
+}
+.icon-ointment:before {
+  content: "\e913";
+}
+.icon-package:before {
+  content: "\e914";
+}
+.icon-passage-of-time:before {
+  content: "\e915";
+}
+.icon-pills:before {
+  content: "\e916";
+}
+.icon-plus-symbol-in-a-rounded-black-square:before {
+  content: "\e917";
+}
+.icon-protection-shield:before {
+  content: "\e918";
+}
+.icon-rehabilitation:before {
+  content: "\e919";
+}
+.icon-reply-all:before {
+  content: "\e91a";
+}
+.icon-right-arrow:before {
+  content: "\e91b";
+}
+.icon-right-arrow-thin:before {
+  content: "\e91c";
+}
+.icon-shipped:before {
+  content: "\e91d";
+}
+.icon-shopping-cart:before {
+  content: "\e91e";
+}
+.icon-smiling-baby:before {
+  content: "\e91f";
+}
+.icon-specialist-user:before {
+  content: "\e920";
+}
+.icon-telephone-handle-silhouette:before {
+  content: "\e921";
+}
+.icon-twitter-logo-button:before {
+  content: "\e922";
+}
+.icon-viber:before {
+  content: "\e923";
+}
+.icon-vk-social-logotype:before {
+  content: "\e924";
+}
+.icon-heart:before {
+  content: "\e925";
+}
+.icon-left-arrow-thin:before {
+  content: "\e926";
+}
+.icon-viber_no_bg:before {
+  content: "\e927";
+}
+.icon-checked:before {
+  content: "\e928";
+}

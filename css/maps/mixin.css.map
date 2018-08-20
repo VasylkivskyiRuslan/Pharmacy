@@ -1,0 +1,1 @@
+{"version":3,"sources":["mixin.less"],"names":[],"mappings":"AAEA,gB,CACE,Y,CACA,mC,CACA,+B,CAGF,e,CACE,mB","file":"../mixin.css","sourcesContent":["//mix-in\r\n\r\n.containerParent {\r\n  display: grid;\r\n  grid-template-areas: \". container .\";\r\n  grid-template-columns: 7% 86% 7%;\r\n}\r\n\r\n.containerChild {\r\n  grid-area: container;\r\n}"]}
